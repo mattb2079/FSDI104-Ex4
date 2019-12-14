@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+
+.btn{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: flex;
+    margin: auto;
+    height: 30vh;
+}
+
+.centering{
+    text-align: center;
+}
